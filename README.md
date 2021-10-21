@@ -30,7 +30,7 @@ Install my-project with the following programs:
 Python 3.7.11
 - https://www.python.org/downloads/release/python-3711/
 
-  Installing panda librabry in Python
+  Installing pandas librabry in Python
   - https://pandas.pydata.org/docs/getting_started/install.html
 
   Installing matplotlib librabry in Python
